@@ -1,0 +1,17 @@
+### Testing Prediksi Tingkat Kemiskinan (10 Fitur)
+
+POST http://127.0.0.1:8000/predict
+Content-Type: application/json
+
+{
+  "rata_rata_lama_sekolah": 8.5,
+  "pengeluaran_perkapita": 2500000,
+  "indeks_pembangunan_manusia": 72.5,
+  "akses_sanitasi": 85.0,
+  "akses_air_minum": 90.0,
+  "tingkat_pengangguran_terbuka": 6.5,
+  "tingkat_partisipasi_angkatan_kerja": 67.0,
+  "pdrb": 15000000,
+  "persentase_penduduk_miskin": 10.5,
+  "pertumbuhan_ekonomi": 5.1
+}
