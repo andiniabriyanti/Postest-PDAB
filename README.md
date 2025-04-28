@@ -18,7 +18,7 @@ Sebuah mini-proyek berbasis **FastAPI** untuk memprediksi **tingkat klasifikasi 
 - Output prediksi: kategori klasifikasi kemiskinan.
 - Ringan, cepat, dan siap diintegrasikan dengan aplikasi lain.
 
-## ⚙️ Cara Menjalankan
+## ⚙️ 𝐂𝐚𝐫𝐚 𝐌𝐞𝐧𝐣𝐚𝐥𝐚𝐧𝐤𝐚𝐧
 
 ### 𝟏. 𝐏𝐚𝐬𝐭𝐢𝐤𝐚𝐧 𝐒𝐮𝐝𝐚𝐡 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐏𝐚𝐜𝐤𝐚𝐠𝐞
 
@@ -60,6 +60,7 @@ Buka browser ke:
     ...
   }
 }
+```
 
 ## 📚 𝐂𝐚𝐭𝐚𝐭𝐚𝐧
 
